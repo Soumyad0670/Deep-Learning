@@ -81,8 +81,6 @@ Expect well-commented visualizations in every notebook:
 * Regression lines, residual analysis
 * Word clouds or bar graphs for text data
 
-These bring theoretical insights to life ([github.com][1], [github.com][2]).
-
 ---
 
 ## 🤝 Contributions Welcome
